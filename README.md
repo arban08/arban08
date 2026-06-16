@@ -52,17 +52,7 @@ GitHub · VS Code
 
 ---
 
-## 📊 GitHub Stats
 
-![GitHub Streak](https://streak-stats.demolab.com?user=arban08&theme=radical)
-
----
-
-## 📈 Contribution Activity
-
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=arban08)
-
----
 
 ## 🌐 Connect With Me
 
